@@ -1,0 +1,15 @@
+         5006 function calls in 0.297 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.274    0.274    0.297    0.297 C:\Users\lenovo\OneDrive\Documents\Performance_Optimization\original.py:2(analyze_students)
+     1000    0.016    0.000    0.016    0.000 {built-in method builtins.round}
+        1    0.001    0.001    0.005    0.005 {built-in method builtins.max}
+     1000    0.004    0.000    0.004    0.000 C:\Users\lenovo\OneDrive\Documents\Performance_Optimization\original.py:70(<lambda>)
+     1000    0.002    0.000    0.002    0.000 {built-in method builtins.sum}
+     1003    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+     1000    0.001    0.000    0.001    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
